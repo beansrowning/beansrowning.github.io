@@ -11,5 +11,5 @@ draft: false
 - Machine/Deep Learning
 - Mathematical Modeling
 
-View some of my public work on [GitHub](https://github.com/tomanistor), or connect with me on [LinkedIn](https://www.linkedin.com/in/sean-browning/). 
+View some of my public work on [GitHub](https://github.com/beansrowning), or connect with me on [LinkedIn](https://www.linkedin.com/in/sean-browning/). 
 
